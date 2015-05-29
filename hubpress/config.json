@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "theartsnetwork",
-    "repositoryName": "arthub.io",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"theartsnetwork","repositoryName":"arthub.io","branch":"gh-pages"},"site":{"title":"ArtHub","description":"Its test art hub site","url":"https://theartsnetwork.github.io/arthub.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//theartsnetwork.github.io/arthub.io/themes/Casper"}}
